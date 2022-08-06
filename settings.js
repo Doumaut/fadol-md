@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Faruqq bott" //namabot kalian
 global.ownername= "Faruq store" //nama kalian
-global.myweb ="https://Wa.me/6281233083172" //bebas asal jan hapus
+global.myweb ="https://Wa.me/6285732107960" //bebas asal jan hapus
 global.youtube = "https://youtube.com/shorts/7ySw5JMgNIo?feature=share" //bebas asal jan hapus
 global.github = "https://github.com/Doumaut/Marogol-" //bebas
 global.email = "f0556915@gmail.com" //bebas
@@ -39,8 +39,8 @@ global.ownernomerr = "+6285738861620" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Bot adit' //sticker wm ubah
-global.author = 'Di Buat Oleh Adit kang spam' //sticker wm ganti nama kalian
+global.packname = '© Bot Faruq' //sticker wm ubah
+global.author = 'Di Buat Oleh Faruq store' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
